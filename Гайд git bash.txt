@@ -1,0 +1,12 @@
+1)cd D:/...(желательно выюрать сразу папку)
+2)git config --global user.name "name"
+3)git config --global user.email "email"
+4)git clone https://github.com/ссылка на репозиторий
+5)cd ...(заходим в папку которая создалась в D:/)
+6)git status
+7)перекидываем в папку файлы
+8)git add .
+9)git commit -m "коментим"
+10)git push origin main(загружаем на гит)
+
+
